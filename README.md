@@ -27,7 +27,7 @@ The app provides detailed information about each coin, including its creators, d
 
 ## 📸 Screenshots
 
-<img src="https://github.com/abdullahalnuman0/Android-Projects/blob/main/Screenshots/cryptocurrency_img_1.jpeg" width="150"/> <img src="https://github.com/abdullahalnuman0/Android-Projects/Screenshots/cryptocurrency_img_2.jpeg" width="150"/> <img src="https://github.com/abdullahalnuman0/Android-Projects/Screenshots/cryptocurrency_img_3.jpeg" width="150"/> <img src="https://github.com/abdullahalnuman0/Android-Projects/Screenshots/cryptocurrency_img_4.jpeg" width="150"/>
+<img src="https://github.com/abdullahalnuman0/Android-Projects/blob/main/Screenshots/cryptocurrency_img_1.jpeg" width="150"/> <img src="https://github.com/abdullahalnuman0/Android-Projects/blob/main/Screenshots/cryptocurrency_img_2.jpeg" width="150"/> <img src="https://github.com/abdullahalnuman0/Android-Projects/blob/main/Screenshots/cryptocurrency_img_3.jpeg" width="150"/> <img src="https://github.com/abdullahalnuman0/Android-Projects/blob/main/Screenshots/cryptocurrency_img_4.jpeg" width="150"/> 
 
 
 ## 📥 Download APK
